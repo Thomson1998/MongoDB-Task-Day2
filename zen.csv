@@ -1,0 +1,11 @@
+_id,attendance,codekata,company_drives,company_drives_date,mentors,placement,task_date,tasks,topic_date,topics,user
+6456660e497ef235bd3e7bb7,Present,235,ZOHO,2020-10-19T18:30:00.000Z,Malini,Appeared,2020-10-09T18:30:00.000Z,movie_app,2020-10-04T18:30:00.000Z,React,Rahul
+6456660e497ef235bd3e7bb8,Present,200,TCS,2020-10-24T18:30:00.000Z,Sangeetha,Appeared,2020-10-15T18:30:00.000Z,mongo_commands,2020-10-14T18:30:00.000Z,MongoDB,Pandiyan
+6456660e497ef235bd3e7bb9,Present,175,Capgemini,2020-10-27T18:30:00.000Z,Zoya,Appeared,2020-10-20T18:30:00.000Z,create_api,2020-10-19T18:30:00.000Z,Node_js,Prabhu
+6456660e497ef235bd3e7bba,Present,150,WIPRO,2020-10-21T18:30:00.000Z,Balakumar,Appeared,2020-10-08T18:30:00.000Z,responsive_web_design,2020-10-06T18:30:00.000Z,HTML,Keerthy
+6456660e497ef235bd3e7bbb,Present,250,HCL,2020-10-27T18:30:00.000Z,Magesh,Appeared,2020-10-13T18:30:00.000Z,responsive_web_design,2020-10-11T18:30:00.000Z,CSS,Poorna
+6456660e497ef235bd3e7bbc,Absent,93,Cognizant,2020-10-30T18:30:00.000Z,Roopesh,Not_appeared,2020-10-22T18:30:00.000Z,functions,2020-10-18T18:30:00.000Z,JavaScript,Dinesh
+6456660e497ef235bd3e7bbd,Present,180,Accenture,2020-10-19T18:30:00.000Z,Nalini,Appeared,2020-10-15T18:30:00.000Z,movie_app,2020-10-04T18:30:00.000Z,React,Nandha
+6456660e497ef235bd3e7bbe,Present,125,TCS,2020-10-24T18:30:00.000Z,Hema,Appeared,2020-10-19T18:30:00.000Z,responsive_web_design,2020-10-11T18:30:00.000Z,CSS,Wiiliam
+6456660e497ef235bd3e7bbf,Present,155,ZOHO,2020-10-27T18:30:00.000Z,Sofiya,Appeared,2020-10-20T18:30:00.000Z,create_api,2020-10-19T18:30:00.000Z,Node_js,Shiny
+6456660e497ef235bd3e7bc0,Present,55,HCL,2020-10-19T18:30:00.000Z,Sankar,Appeared,2020-10-18T18:30:00.000Z,mongo_commands,2020-10-14T18:30:00.000Z,MongoDB,Rasool
